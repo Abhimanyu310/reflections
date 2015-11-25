@@ -11,3 +11,5 @@ that need to be committed
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use git diff --staged to compare with previous commit.
+
+Now just testing master changes after new branch created
